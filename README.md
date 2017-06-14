@@ -7,7 +7,7 @@ To run:
 
 ./fib_cuda x
 
-where x is the desired numbers of the sequnce you wish to calculate.
+where x is the desired numbers of the sequence you wish to calculate.
 
 
-Note: this program uses unsigned long integers, which overflow after the 93rd number in the sequence.
+Note: this program uses unsigned long integers, which overflow after the 93rd number in the sequence. Kind of a crippling restriction; but again, this program was written mainly to familiarize with CUDA/parallel computing.
